@@ -1,0 +1,20 @@
+[
+    {
+    "id": 123,
+    "nome": "Ciência da Computação",
+    "imagem": "https://img.freepik.com/fotos-gratis/aluno-em-sala-de-aula-olhando-para-o-curso_23-2148888810.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697414400&semt=sph",
+    "preco": "150,00"
+    },
+    {
+        "id": 123456,
+        "nome": "Sistemas de Informação",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREIKtbzeSObrBlrmjL5llXHVvmnRrqvUMyLWWjI9xykJXN6wc90qVT7uW5RYJBlyuw6tU&usqp=CAU",
+        "preco": "300,00"
+    },
+    {
+        "id": 1232,
+        "nome": "Administração",
+        "imagem": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/04/Curso-online.jpg?quality=100&strip=info",
+        "preco": "380,00"
+    }
+]
